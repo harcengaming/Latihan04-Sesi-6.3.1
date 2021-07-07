@@ -1,6 +1,6 @@
 1. Apa perbedaan dari procedural, conditional, dan looping?
 
-    a. Procedural programming merupakan pemrograman secara inline dengan menggunakan konsep top-down approach dengan kata lain, PP dapat diartikan dengan memberi intruksi berupa tahapan kegiatan untuk menyelesaikan suatu aktivitas tergantung procedures dan routines terkait.
+    a. Procedural programming merupakan pemrograman secara inline dengan menggunakan konsep top-down approach dengan kata lain, PP dapat diartikan dengan memberi intruksi berupa          tahapan kegiatan untuk menyelesaikan suatu aktivitas tergantung procedures dan routines terkait.
     b. Conditional merupakan statement percabangan yang menggambarkan suatu kondisi.
     c. Looping adalah statement yang mengulang sebuah instruksi hingga kondisi terpenuhi atau jika kondisi stop/berhenti tercapai.
 
